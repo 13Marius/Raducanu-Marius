@@ -1,0 +1,36 @@
+body{
+    background-color: red;
+}
+
+#head{
+    width: 1000px ;
+    height: 50px;
+    border: 1px solid black;
+    margin: auto;
+
+}
+
+
+#down{
+    width: 1000px ;
+    height: 900px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 5px;
+}
+
+#footer{  
+    width: 1000px ;
+    height: 50px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 5px;
+}
+
+button{
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    margin-top: 25px;
+    margin-left: 5px;
+}
